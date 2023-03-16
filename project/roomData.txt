@@ -1,0 +1,9 @@
+Single Occupancy
+Double Occupancy
+Triple Occupancy
+Studio Rooms
+Suite
+Cabana
+Villa
+Penthouse
+Dorm

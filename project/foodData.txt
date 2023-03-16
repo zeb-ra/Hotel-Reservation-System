@@ -1,0 +1,9 @@
+Continental Cuisine
+Chinese Cuisine
+Italian Cuisine
+Indian Cuisine
+Satvik Cuisine
+French Cuisine
+Japanese Cuisine
+American Cuisine
+Prefer not to choose
